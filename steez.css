@@ -8,11 +8,15 @@
 .l2,
 /* Hide chat*/
 .T0.pp,
+/* Hide contacts, tasks, & compose, use shortcut for these */
+.CX.pp, .T4.pp, div[id=':kt'].n3 .z0,
 /* Hide rapportive in header */
 #rapportive-status,
 /* Hide "Search the Web" button, who uses gmail to search the web? */
 div[id=':rh'],
 /* Hide manage domain gapps link */
 .e.GcwpPb-tOAp0c,
+/* Hide the account switching dropdown */
+.gbt.gbtb,
 /* Hide the left header */
 #gbz{display:none;}
